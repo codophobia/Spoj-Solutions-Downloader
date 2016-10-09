@@ -1,7 +1,13 @@
 # Spoj-Solutions-Downloader
 This python script downloads all the solutions for solved problem on spoj for a user. 
 
-<b>Platform:</b> Linux
+<b>Platform:</b> Linux with python 2.7
+
+<b>Installing Requirements</b>
+<ul>
+<li>RoboBrowser: sudo pip install robobrowser</li>
+<li>The other option is to create a virtualenv and then install all the requirements given in requirements.txt using pip -r install requirements.txt</li>
+</ul>
 
 <b>Running the script:</b> python spoj.py
 
