@@ -2,7 +2,7 @@ from robobrowser import RoboBrowser
 import os
 import shutil
 
-extension = {"C++":"cpp","C":"c","C++14":"cpp","Java":"java","Python":"py","CPP":"cpp","JAVA":"java"}
+extension = {"C++":"cpp","C":"c","CPP14":"cpp","Java":"java","Python":"py", "PYTHON3":"py", "CPP":"cpp","JAVA":"java"}
 username = raw_input("Enter your spoj username:")
 password = raw_input("Enter your spoj password:")
 
